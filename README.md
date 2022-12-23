@@ -21,21 +21,15 @@ Ensuite faites un clic droit sur le fichier "APIGIF", ouvrez sur un Terminal. (P
 
 Bien joué ! Vous avez fait le plus dur !
 
-Passons à l'installation des "Modules" néssesaire au bon fonctionnement du site.
-
 Tout d'abord, dans votre "Terminal" ou "PowerShell". Tapez ses commandes :
 
-Commande n° 1 : npm install express-handlebars 
+Commande n° 1 : npm i
 
-Commande n° 2 :  npm install express
+Commande n° 2 : node server.js
 
-Commande n° 3 : npm i
-
-Commande n° 3 : nodemon server.js
 Cliquez sur le lien : Ctrl + Clic Gauche.
+ou
+Votre site sera accessible sur l'adresse : https://locall.host/
 
 
 Bravo, vous pouvez maintenant utiliser le site BoxAMeme.
-
-
-![Boxameme](https://user-images.githubusercontent.com/115226840/208315031-c145b481-bfbc-4fe2-ac83-6bceac1987df.jpg)
