@@ -3,7 +3,7 @@ Read Me du projet API Gif/Sticker par Reslane, Sylvain, Léo.
 Présentation du projet :
 
 BoxAMeme est un site réalisé dans le cadre de notre formation en développement web et web mobile.
-Il paraît tout simplement de trouver des gifs ou des stickers, via une recherche par mot-clef.
+Vous pouvez tout simplement de trouver des gifs ou des stickers, via une recherche par mot-clef.
 
 
 ![boxameme](https://user-images.githubusercontent.com/115226840/209302712-96f73287-80ce-4e8e-b14b-a1bb03fc3f3f.jpg)
