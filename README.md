@@ -1,8 +1,7 @@
-Read Me du projet API Gif/Sticker par Reslane, Sylvain, Léo.
+Read Me du projet API Gif/Sticker.
 
 Présentation du projet :
 
-BoxAMeme est un site réalisé dans le cadre de notre formation en développement web et web mobile.
 Vous pouvez tout simplement de trouver des gifs ou des stickers, via une recherche par mot-clef.
 
 
@@ -29,7 +28,7 @@ Commande n° 2 : node server.js
 
 Cliquez sur le lien : Ctrl + Clic Gauche.
 ou
-Votre site sera accessible sur l'adresse : https://locall.host/
+Votre site sera accessible sur l'adresse : http://localhost:3000/
 
 
 Bravo, vous pouvez maintenant utiliser le site BoxAMeme.
